@@ -1,0 +1,1 @@
+This assignment is about using PHP together with SQL to create, modify, and query information in a database.
